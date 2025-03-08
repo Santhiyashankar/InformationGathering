@@ -68,12 +68,8 @@ NETCAT:
 ![Screenshot 2025-03-08 142021](https://github.com/user-attachments/assets/3d0823c4-7bca-4b15-aca5-70b9eb4100cd)
 
 
-HTTTPPRINT:
-
-
-
-
 TCP TRACEROUTE:
+
 
 ![Screenshot 2025-03-07 104643](https://github.com/user-attachments/assets/6d21d881-1316-44cb-8c28-2428e53b78bd)
 
