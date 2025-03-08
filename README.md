@@ -53,15 +53,14 @@ WEB ARCHIVE:
 
 NMAP:
 
+![Screenshot 2025-03-08 134709](https://github.com/user-attachments/assets/5c21ecc8-e94e-4d87-abe7-d82ba48ec6fd)
 
-![Screenshot 2025-03-07 104910](https://github.com/user-attachments/assets/b6de8a8b-0d4f-4b45-92a1-37da938a823a)
 
 
 
 WHATWEB:
 
-
-![Screenshot 2025-03-07 104617](https://github.com/user-attachments/assets/848f3601-d211-4131-b4ab-a6daf692770b)
+![Screenshot 2025-03-08 140448](https://github.com/user-attachments/assets/b4c1e056-ec94-4e4c-a5d1-144975ac7092)
 
 
 
